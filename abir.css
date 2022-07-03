@@ -21,7 +21,7 @@ h2{
     font-weight: 700px;
     margin-top: 20px;
 }
-section{
+.falaxibal-containar{
     display: flex;
 }
 .blog{
@@ -54,4 +54,26 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.pro-color{
+    color: rgb(243, 197, 14);
+}
+.exp-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.blog-2{
+  
+    width: 40%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    border-left: 5px solid blue;
+
+}
+#bwd{
+    border-left: 5px solid orange ;
 }
