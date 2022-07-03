@@ -36,3 +36,22 @@ section{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.name{
+    color: rgb(243, 197, 14);
+}
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(228, 155, 29), tomato);
+    padding: 10px 40px;
+    color: whitesmoke;
+    border-radius: 5px;
+    font-weight: 700px;
+    margin-top: 40px;
+}
+.dream-big{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
